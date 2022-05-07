@@ -3,9 +3,9 @@
 
 <h1>Tecnologias usadas:</h1>
 
-<hr>
-
 <h2>HTML, CSS E JAVASCRIPT</h2>
+
+<hr>
 
 https://torugojs.github.io/Jogo-da-velha-/
 
