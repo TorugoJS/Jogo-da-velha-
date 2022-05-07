@@ -3,6 +3,8 @@
 
 <h1>Tecnologias usadas:</h1>
 
-<p>HTML</p>
-<p>CSS</p>
-<p>JAVASCRIPT</p>
+<h2>HTML</h2>
+<h2>CSS</h2>>
+<h2>JAVASCRIPT</h2>
+
+https://torugojs.github.io/Jogo-da-velha-/
