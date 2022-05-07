@@ -6,5 +6,6 @@
 <h2>HTML</h2>
 <h2>CSS</h2>>
 <h2>JAVASCRIPT</h2>
+<hr>
 
 https://torugojs.github.io/Jogo-da-velha-/
